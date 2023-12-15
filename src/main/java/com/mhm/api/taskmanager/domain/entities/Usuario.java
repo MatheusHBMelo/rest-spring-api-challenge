@@ -1,5 +1,6 @@
 package com.mhm.api.taskmanager.domain.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
@@ -15,6 +16,7 @@ public class Usuario {
     private String nome;
     private String email;
 
+    @JsonIgnore
     @OneToMany(mappedBy = "usuario")
     private List<Tarefa> tarefas = new ArrayList<>();
 
