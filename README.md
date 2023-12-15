@@ -81,7 +81,7 @@ Este desafio tem como objetivo avaliar suas habilidades técnicas e sua capacida
 
 ## Diagrama UML:
 
-<div align="center"><img src="https://raw.githubusercontent.com/MatheusHBMelo/restafulapi-usertask-challenge/main/img/class-diagram.jpeg" alt="Diagram class"></div>
+<div align="center"><img src="https://github.com/MatheusHBMelo/rest-spring-api-challenge/blob/main/img/class-diagram.jpeg?raw=true" alt="Diagram class"></div>
 
 ## Estrutura de commits:
 
